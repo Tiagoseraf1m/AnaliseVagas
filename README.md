@@ -32,7 +32,6 @@ As informações foram organizadas em tabelas, gráficos e diagramas, disponíve
 |---------|------------------------|
 | Júnior  | R$ 3.500 – R$ 6.000   |
 | Pleno   | R$ 6.500 – R$ 10.000  |
-| Sênior  | R$ 10.500 – R$ 15.000 |
 
 ---
 
