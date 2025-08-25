@@ -45,7 +45,7 @@ As informações foram organizadas em tabelas, gráficos e diagramas, disponíve
 
 ## 🎯 Plano de Ação (Próximos 6 meses)
 - **Hard Skills:**  
-  - Aprimorar conhecimentos em **React.js**  
+  - Aprimorar conhecimentos em **JavaScript** e **React.js**  
   - Praticar **Node.js** em projetos práticos  
 
 - **Soft Skill:**  
