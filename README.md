@@ -50,7 +50,7 @@ As informações foram organizadas em tabelas, gráficos e diagramas, disponíve
 
 - **Soft Skill:**  
   - Desenvolver **comunicação em ambientes colaborativos**  
-
+ 
 ---
 
 ## 📂 Arquivos
