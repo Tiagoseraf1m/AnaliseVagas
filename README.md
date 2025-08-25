@@ -49,4 +49,4 @@ As informações foram organizadas em tabelas, gráficos e diagramas no relatór
 ---
 
 ## 📂 Arquivos
-- 📄 [Relatório Completo em PDF](Relatorio_Vagas_Desenvolvimento_Web_Full_Stack_Corporativo.pdf)
+- 📄 [Relatório Completo em PDF](Relatorio_Vagas_Desenvolvimento_Web_Full_Stack_Detalhado_Ajustado.pdf)
